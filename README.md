@@ -1,8 +1,8 @@
 <div align="center">
   <br />
-    <a href="https://youtu.be/oKIThIihv60" target="_blank">
+<!--     <a href="https://youtu.be/oKIThIihv60" target="_blank">
       <img src="https://github.com/JavaScript-Mastery-Pro/figma-ts/assets/151519281/e03dc22d-0f45-464b-9dc3-f01f07906bee" alt="Project Banner">
-    </a>
+    </a> -->
   <br />
 
   <div>
@@ -13,9 +13,7 @@
 
   <h3 align="center">Real Time Figma Clone</h3>
 
-   <div align="center">
-     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
-    </div>
+  
 </div>
 
 ## 📋 <a name="table">Table of Contents</a>
