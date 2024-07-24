@@ -72,7 +72,7 @@ https://figma-clone-lyart-rho.vercel.app/
 
 ## <a name="more">🚀 More</a>
 
-<im
+![Figma]("C:\Users\khush\Desktop\images\Figma.png")
 
 
 
