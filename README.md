@@ -22,9 +22,7 @@
 2. ⚙️ [Tech Stack](#tech-stack)
 3. 🔋 [Features](#features)
 4. :link: [Live-link](#live-link)
-5. 🕸️ [Snippets](#snippets)
-6. 🔗 [Links](#links)
-7. 🚀 [More](#more)
+5. 🚀 [More](#more)
 
 
 ## <a name="introduction">🤖 Introduction</a>
